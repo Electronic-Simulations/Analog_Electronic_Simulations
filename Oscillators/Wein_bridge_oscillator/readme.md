@@ -4,6 +4,8 @@ A Wien Bridge Oscillator is an electronic circuit that generates sinusoidal wave
 
 The Wien Bridge Oscillator is widely used due to its simplicity and ability to produce low-distortion sinusoidal outputs over a wide range of frequencies. It typically consists of an operational amplifier (op-amp), a series RC network, and a parallel RC network. The frequency of oscillation is determined by the values of the resistors and capacitors in these networks.
 
+![Wien Bridge Oscillator](Oscillators/Wein_bridge_oscillator/media/weinbridge.png)
+
 ## Advantages
 
 - **Simplicity**: The design is straightforward and requires relatively few components.
