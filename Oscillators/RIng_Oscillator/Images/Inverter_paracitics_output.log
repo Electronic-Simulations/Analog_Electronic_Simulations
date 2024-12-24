@@ -1,0 +1,21 @@
+LTspice 24.0.12 for Windows
+Circuit: * E:\Semester 5 210351M\Analog Circuit Design EN3013\Assignment\1\Inverter_paracitics.asc
+Start Time: Tue Dec 24 20:17:44 2024
+solver = Normal
+Maximum thread count: 12
+tnom = 27
+temp = 27
+method = modified trap
+Instance "m§cmosp": Length shorter than recommended for a level 1 MOSFET.
+Instance "m§cmosn": Length shorter than recommended for a level 1 MOSFET.
+Direct Newton iteration for .op point succeeded.
+
+tout_rise: v(out)=2.5 AT 5.36179e-09
+tin_fall: v(in)=2.5 AT 5.25e-09
+dt_lh: tout_rise-tin_fall=1.11786e-10
+tout_fall: v(out)=2.5 AT 1.0468e-08
+tin_rise: v(in)=2.5 AT 1.025e-08
+dt_hl: tout_fall-tin_rise=2.17967e-10
+
+Total elapsed time: 0.341 seconds.
+

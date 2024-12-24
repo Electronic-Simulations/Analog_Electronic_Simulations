@@ -1,0 +1,5 @@
+All the graphs are plotted using the data obtained in LTspice. 
+
+Frequency is almost the same. No significant change in Frequency when changing W L parameters in the MOSFETS. It will depends on the input signal.
+
+When increasing the W/L parameter of PMOS both rise and fall time of the inverter will reduced.
